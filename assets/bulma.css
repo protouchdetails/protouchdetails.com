@@ -1,4 +1,4 @@
-@import url('https://static.myprices.io/fonts/metropolis/styles.css');
+@import './fonts.css';
 
 .delete,
 .modal-close,
